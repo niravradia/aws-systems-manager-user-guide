@@ -12,7 +12,7 @@ After you create the content for your custom SSM document, as described in [Writ
 
    If the AWS Systems Manager home page opens first, choose the menu icon \(![\[Image NOT FOUND\]](http://docs.aws.amazon.com/systems-manager/latest/userguide/images/menu-icon-small.png)\) to open the navigation pane, and then choose **Documents** in the navigation pane\.
 
-1. Choose **Create document**\.
+1. Choose **Create command or session**\.
 
 1. Type a descriptive name for the document 
 
